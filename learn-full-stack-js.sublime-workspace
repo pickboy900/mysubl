@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"config\t(config.js)"
+			],
+			[
+				"pri",
+				"previos_word"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"pdf",
+				"pdf_file"
+			],
+			[
+				"page",
+				"page_num"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"ass",
+				"asset_description"
+			],
+			[
+				"rea",
+				"read_pdf_to_collect_metadata"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"pa",
+				"page_num"
+			],
+			[
+				"tar",
+				"target_file"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"Fa",
+				"FastestAnalysis"
+			],
+			[
+				"FI",
+				"FilterResult"
+			],
+			[
+				"rend",
+				"render_form\t(macros.html.j2)"
+			],
+			[
+				"ren",
+				"render_3_column_check_box\t(macros.j2)"
+			],
+			[
+				"ma",
+				"main.bundle.js\t(package.json)"
+			],
+			[
+				"bu",
+				"build\t(package.json)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ext",
+				"Snippet: Extends"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insla\t",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/learn-fullstack-javascript/package.json",
+		"/D/learn-fullstack-javascript/webpack.config.js",
+		"/D/learn-fullstack-javascript/config.js",
+		"/D/learn-fullstack-javascript/.babelrc",
+		"/D/learn-fullstack-javascript/server.js",
+		"/D/learn-fullstack-javascript/node_modules/babel-core/lib/transformation/file/options/option-manager.js",
+		"/D/learn-fullstack-javascript/.eslintrc.js",
+		"/D/learn-fullstack-javascript/.gitignore",
+		"/D/learn-fullstack-javascript/package-lock.json",
+		"/D/learn-fullstack-javascript/LICENSE",
+		"/D/learn-fullstack-javascript/README.md",
+		"/C/Users/Asus/cpp_practice/detect_repetation.cpp",
+		"/C/Users/Asus/cpp_practice/read_and_write.cpp",
+		"/C/Users/Asus/cpp_practice/std_lib_facilities.h",
+		"/C/Users/Asus/cpp_practice/hello_world.cpp",
+		"/D/ebay_scraper/scraper.py",
+		"/D/rearranging_Pdf/index.csv",
+		"/D/rearranging_Pdf/allcerts_2.pdf",
+		"/C/Users/Asus/c_practice/bank_note.c",
+		"/D/c_practice/bank_note.c",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/User/c.sublime-build",
+		"/D/greyhoundAnalysis/main_app/templates/base.html",
+		"/D/greyhoundAnalysis/main_app/templates/finished.html",
+		"/D/greyhoundAnalysis/main_app/routes.py",
+		"/D/greyhoundAnalysis/main_app/templates/show_results.html",
+		"/D/greyhoundAnalysis/main_app/templates/macros.html.j2",
+		"/D/greyhoundAnalysis/main_app/templates/fastest_analysis.html",
+		"/D/greyhoundAnalysis/main_app/forms.py",
+		"/D/greyhoundAnalysis/venv.txt",
+		"/D/greyhound/scraper.py",
+		"/D/greyhoundAnalysis/requirements.txt",
+		"/D/greyhoundAnalysis/main_app/models.py",
+		"/D/greyhoundAnalysis/main_app/scraper/greyhound_bet.py",
+		"/D/greyhoundAnalysis/main_app/templates/test.html.j2",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/project_venv_repls.py",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/Terminal/greyhoundAnalysis.sublime-project",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Packages/User/from-jinja2.sublime-snippet",
+		"/C/Users/Asus/Downloads/Compressed/Sublime Text Build 3176/Data/Installed Packages/Jinja2.sublime-package",
+		"/D/js_projects/es6-tutorial/package.json",
+		"/D/js_projects/es6-tutorial/index.html",
+		"/D/js_projects/es6-tutorial/build/main.bundle.js",
+		"/D/js_projects/es6-tutorial/js/main.js"
+	],
+	"find":
+	{
+		"height": 34.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.4
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 321.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "learn-full-stack-js.sublime-project",
+	"replace":
+	{
+		"height": 65.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serv",
+				"server.js"
+			],
+			[
+				"",
+				".eslintrc.js"
+			],
+			[
+				".ba",
+				".babelrc"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"rou",
+				"main_app\\routes.py"
+			],
+			[
+				"packae",
+				"es6-tutorial\\package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
